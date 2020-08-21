@@ -43,6 +43,7 @@
 
 .project-body {
     text-align: center;
+    font-size: 1.3vw;
 }
 
 .scroll-text-white {
@@ -52,7 +53,7 @@
 
 .scroll-text-black {
     font-size: 1.5vw;
-    margin-top: 12vw;
+    margin-top: 14vw;
 
 }
 
@@ -61,7 +62,8 @@
     position: absolute;
     bottom: 0;
     text-align: center;
-    width: 100%
+    width: 100%;
+    font-size: 1.3vw;
 }
 
 .col-5.project.top-project {
@@ -90,7 +92,7 @@
     transition: 0.5s ease-out;
     z-index: 2;
     background-color: #f2e9e4;
-    height: 17vw;
+    height: 20vw;
 }
 
 .link-div {
